@@ -2,6 +2,10 @@
 
 Welcome to the Cake Ordering Website! This platform allows users to browse through various cake options, view the available services, check testimonials, and contact the bakery to place an order. With a simple, user-friendly design and responsive layout, users can quickly find and order their perfect cake.
 
+## 🌐 Demo
+
+[Live Demo](https://nancymary0401.github.io/cakebake.github.io/)
+
 ## 📖 Table of Contents
 
 - [About](#about)
